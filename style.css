@@ -1,0 +1,79 @@
+header {
+    background-color: #59316b;
+  }
+  
+  .navbar .navbar-brand img {
+    max-height: 40px;
+  }
+
+  .btn-donate {
+    background-color: #ffd700;
+    color: #000;
+    font-weight: bold;
+  }
+  .btn-donate:hover{
+    background-color: #ffd700;
+    color: #000;
+    font-weight: bold;
+  }
+
+  .navbar .nav-link {
+    color: #fff;
+  }
+
+  .navbar .dropdown-toggle::after {
+    border-color: #fff;
+  }
+
+  .navbar-nav {
+    margin: 0 auto;
+  }
+  .line{
+      height: 0.1px;
+  }
+  .heading{
+    color: #59316b;
+    font-size: 1.3rem;
+  }
+  .para{
+    font-size: 1.1rem;
+  }
+  .team-link{
+    color: #59316b;
+    text-decoration: none;
+  }
+  .team-link:hover{
+    text-decoration: underline;
+  }
+  footer{
+    background-color: #59316b;
+    color: white;
+  }
+  .footer-dwnbtn{
+    background-color: white;
+    color: #59316b;
+  }
+  .footer-dwnbtn:hover{
+    background-color: white;
+    color: #59316b;
+  }
+  
+  .footer-links a{
+    text-decoration: none;
+    color: white;
+    margin: 3px;
+  }
+  .sign-up-btn{
+    background-color: #3a2145;
+    color: white;
+  }
+  .opa-text{
+    color: rgba(255, 255, 255, 0.685);
+  }
+  @media (max-width: 768px) {
+    .title .display-1 {
+      font-size: 3.5rem; /* Adjust the font size as needed */
+    }
+  }
+
+  
